@@ -8,7 +8,7 @@ public class HomeResource {
 
     @GetMapping("/")
     public String home() {
-        return ("<h1>Welcome Home</h1>");
+        return ("<h1>Welcome Home New Branch-v</h1>");
     }
 
 
